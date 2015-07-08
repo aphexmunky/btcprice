@@ -17,5 +17,4 @@ func main() {
     printRate("USD", "$")
     printRate("EUR", "€")
     printRate("GBP", "£")
-
 }
